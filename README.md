@@ -14,7 +14,7 @@ Code: https://github.com/MHenderson/ultra-trail-running
 
 ### 22: Mario Kart World Records
 
-https://github.com/MHenderson/mario-kart-records
+Code: https://github.com/MHenderson/mario-kart-records
 
 ![](img/mario-kart.png)
 
