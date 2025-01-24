@@ -52,9 +52,9 @@ Code: [https://github.com/MHenderson/tt-beach-volleyball](https://github.com/MHe
 
 ### 20: Volcano Eruptions
 
-Code: [https://github.com/MHenderson/tt-volcano-eruptions](https://github.com/MHenderson/tt-volcano-eruptions)
+Code: [https://github.com/MHenderson/tt-volcanoes](https://github.com/MHenderson/tt-volcanoes)
 
-![](img/eruptions.png)
+![](https://mhenderson.github.io/tt-volcanoes/img/eruptions.png)
 
 ## 2019
 
