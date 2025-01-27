@@ -6,13 +6,13 @@
 
 Code: [https://github.com/MHenderson/tt-tornadoes](https://github.com/MHenderson/tt-tornadoes)
 
-![This image shows a grid of maps of the US state of Kentucky. Each map represents a different decade and is filled with coloured arrows showing the paths of tornadoes in that decade. The arrows are coloured according to the intensity of the tornado. The plot shows that during the 1980s there were relatively few tornadoes in Kentucky while in the 1970s there were a large number of very intense torndoes. In recent decades the number of tornadoes appears to have increased but there are fewer of high intensity.](img/2023/ky-tornadoes-plot.png)
+![This image shows a grid of maps of the US state of Kentucky. Each map represents a different decade and is filled with coloured arrows showing the paths of tornadoes in that decade. The arrows are coloured according to the intensity of the tornado. The plot shows that during the 1980s there were relatively few tornadoes in Kentucky while in the 1970s there were a large number of very intense torndoes. In recent decades the number of tornadoes appears to have increased but there are fewer of high intensity.](https://mhenderson.github.io/tt-tornadoes/plot/ky-tornadoes-plot.png)
 
 ### 19: Childcare Costs
 
 Code: [https://github.com/MHenderson/tt-childcare-costs](https://github.com/MHenderson/tt-childcare-costs)
 
-![A chloropleth map showing the median cost of childcare in the USA between 2016 and 2018. The coloured regions of the map correspond to counties.](img/2023/infant-center-based.png)
+![A chloropleth map showing the median cost of childcare in the USA between 2016 and 2018. The coloured regions of the map correspond to counties.](https://mhenderson.github.io/tt-childcare-costs/plot/infant-center-based.png)
 
 ## 2022
 
@@ -22,25 +22,25 @@ Code: [https://github.com/MHenderson/tt-childcare-costs](https://github.com/MHen
 
 Code: [https://github.com/MHenderson/tt-ultra-trail-running](https://github.com/MHenderson/tt-ultra-trail-running)
 
-![](img/ultra-trail-running.png)
+![](https://mhenderson.github.io/tt-ultra-trail-running/ultra-trail-running.png)
 
 ### 22: Mario Kart World Records
 
 Code: [https://github.com/MHenderson/tt-mario-kart-records](https://github.com/MHenderson/tt-mario-kart-records)
 
-![](img/mario-kart.png)
+![](https://mhenderson.github.io/tt-mario-kart-records/mario-kart.png)
 
 ### 20: US Broadband
 
 Code: [https://github.com/MHenderson/tt-internet-access](https://github.com/MHenderson/tt-internet-access)
 
-![](img/internet-access.png)
+![](https://mhenderson.github.io/tt-internet-access/internet-access.png)
 
 ### 19: Water Access Points
 
 Code: [https://github.com/MHenderson/tt-water-sources](https://github.com/MHenderson/tt-water-sources)
 
-![](img/water-sources.png)
+![](https://mhenderson.github.io/tt-water-sources/img/water-sources.png)
 
 ## 2020
 
@@ -48,7 +48,7 @@ Code: [https://github.com/MHenderson/tt-water-sources](https://github.com/MHende
 
 Code: [https://github.com/MHenderson/tt-beach-volleyball](https://github.com/MHenderson/tt-beach-volleyball)
 
-![](img/beach-volleyball.png)
+![](https://mhenderson.github.io/tt-beach-volleyball/figure/trendplot-1.png)
 
 ### 20: Volcano Eruptions
 
@@ -64,11 +64,11 @@ Code: [https://github.com/MHenderson/tt-adoptable-dogs](https://github.com/MHend
 
 #### Dog moves
 
-![](img/dog-moves.png)
+![](https://mhenderson.github.io/tt-adoptable-dogs/img/dog-moves-plot.png)
 
 #### Most popular names
 
-![](img/most-popular-names.png)
+![](https://mhenderson.github.io/tt-adoptable-dogs/img/top-names-plot.png)
 
 ### 50: Replicating Plots in R
 
@@ -76,10 +76,9 @@ Code: [https://github.com/MHenderson/tt-replicating-plots-in-r](https://github.c
 
 #### Gun murders
 
-![](img/gun-murders.png)
+![](https://mhenderson.github.io/tt-replicating-plots-in-r/plots/gun-murders.png)
 
 #### Diseases
 
-![](img/diseases.png)
-
+![](https://mhenderson.github.io/tt-replicating-plots-in-r/plots/diseases.png)
 
