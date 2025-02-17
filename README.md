@@ -34,7 +34,7 @@ Code: [https://github.com/MHenderson/tt-mario-kart-records](https://github.com/M
 
 Code: [https://github.com/MHenderson/tt-internet-access](https://github.com/MHenderson/tt-internet-access)
 
-![](https://mhenderson.github.io/tt-internet-access/internet-access.png)
+![](https://mhenderson.github.io/tt-internet-access/plot/internet-access.png)
 
 ### 19: Water Access Points
 
