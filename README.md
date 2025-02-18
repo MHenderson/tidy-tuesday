@@ -28,7 +28,7 @@ Code: [https://github.com/MHenderson/tt-ultra-trail-running](https://github.com/
 
 Code: [https://github.com/MHenderson/tt-mario-kart-records](https://github.com/MHenderson/tt-mario-kart-records)
 
-![](https://mhenderson.github.io/tt-mario-kart-records/mario-kart.png)
+![](https://mhenderson.github.io/tt-mario-kart-records/plot/mario-kart.png)
 
 ### 20: US Broadband
 
