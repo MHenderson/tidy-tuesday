@@ -22,7 +22,7 @@ Code: [https://github.com/MHenderson/tt-childcare-costs](https://github.com/MHen
 
 Code: [https://github.com/MHenderson/tt-ultra-trail-running](https://github.com/MHenderson/tt-ultra-trail-running)
 
-![](https://mhenderson.github.io/tt-ultra-trail-running/ultra-trail-running.png)
+![](https://mhenderson.github.io/tt-ultra-trail-running/plot/ultra-trail-running.png)
 
 ### 22: Mario Kart World Records
 
