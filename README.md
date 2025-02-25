@@ -70,11 +70,11 @@ Code: [https://github.com/MHenderson/tt-adoptable-dogs](https://github.com/MHend
 
 #### Dog moves
 
-![](https://mhenderson.github.io/tt-adoptable-dogs/img/dog-moves-plot.png)
+![](https://mhenderson.github.io/tt-adoptable-dogs/plot/dog-moves-plot.png)
 
 #### Most popular names
 
-![](https://mhenderson.github.io/tt-adoptable-dogs/img/top-names-plot.png)
+![](https://mhenderson.github.io/tt-adoptable-dogs/plot/top-names-plot.png)
 
 ### 50: Replicating Plots in R
 
