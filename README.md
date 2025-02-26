@@ -54,7 +54,7 @@ Code: [https://github.com/MHenderson/tt-water-sources](https://github.com/MHende
 
 Code: [https://github.com/MHenderson/tt-beach-volleyball](https://github.com/MHenderson/tt-beach-volleyball)
 
-![](https://mhenderson.github.io/tt-beach-volleyball/figure/trendplot-1.png)
+![](https://mhenderson.github.io/tt-beach-volleyball/plot/beach-volleyball.png)
 
 ### 20: Volcano Eruptions
 
