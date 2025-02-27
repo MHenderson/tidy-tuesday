@@ -46,7 +46,7 @@ Code: [https://github.com/MHenderson/tt-internet-access](https://github.com/MHen
 
 Code: [https://github.com/MHenderson/tt-water-sources](https://github.com/MHenderson/tt-water-sources)
 
-![](https://mhenderson.github.io/tt-water-sources/img/water-sources.png)
+![](https://mhenderson.github.io/tt-water-sources/plot/water-sources.png)
 
 ## 2020
 
